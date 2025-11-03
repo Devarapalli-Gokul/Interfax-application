@@ -224,7 +224,7 @@ The system will automatically create your user account on first login.
 1. Navigate to the **Outbound Faxes** tab
 2. Click **Send Fax** button
 3. Upload a file (PDF, TIFF, DOC, DOCX)
-4. Enter the recipient's fax number (international format: +15551234567)
+4. Enter the recipient's fax number 
 5. Click **Send**
 6. Monitor status in real-time
 
@@ -548,30 +548,6 @@ We welcome contributions! Please follow these steps:
 
 ---
 
-## 📄 License
-
-This project is proprietary software. All rights reserved.
-
----
-
-## 📞 Support
-
-For support, email support@interfax.net or visit [InterFAX Documentation](https://www.interfax.net/en/dev/docs).
-
----
-
-## 🎉 Acknowledgments
-
-- **InterFAX**: For providing the excellent fax API
-- **Laravel**: For the robust PHP framework
-- **React**: For the amazing UI library
-- **Tailwind CSS**: For the beautiful styling
-
----
-
-<div align="center">
-
-**Made with ❤️ by the InterFAX Development Team**
 
 [Back to Top](#-interfax---fax-management-system)
 
