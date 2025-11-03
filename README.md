@@ -528,25 +528,6 @@ tail -f backend/storage/logs/laravel.log
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions! Please follow these steps:
-
-1. **Fork the repository**
-2. **Create a feature branch**: `git checkout -b feature/amazing-feature`
-3. **Commit your changes**: `git commit -m 'Add amazing feature'`
-4. **Push to the branch**: `git push origin feature/amazing-feature`
-5. **Open a Pull Request**
-
-### Development Guidelines
-
-- Follow Laravel best practices
-- Write clean, documented code
-- Add tests for new features
-- Update documentation as needed
-- Follow the existing code style
-
----
 
 
 [Back to Top](#-interfax---fax-management-system)
